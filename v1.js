@@ -42,13 +42,13 @@ const mail1 = ('madoglipah@gmail.com');
 
 const password1 = ('Teamenomade@12');
 
-const name1 = ('carline'); //prenom
+const name1 = ('salomon'); //prenom
 
-const lastName1 = ('fabien'); //nom
+const lastName1 = ('blanca'); //nom
 
-const SeriePaspo1 = ('R10099196');
+const SeriePaspo1 = ('R12576870');
 
-const NUT1 = ('7081384');
+const NUT1 = ('7114906');
 
 
 
